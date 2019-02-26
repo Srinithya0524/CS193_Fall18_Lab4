@@ -3,7 +3,7 @@ Task 1:
 // Under this line write a message to yourself from GitHub
 Hi, Srinithya!
 // Under this line, describe what the command 'git fetch' does
-
+git fetch fetches new information from the remote server(GitHub)
 
 Task 2:
 
